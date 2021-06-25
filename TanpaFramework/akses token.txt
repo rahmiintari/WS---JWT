@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "data": {
+        "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImludGFyaXJhaG1pMDdAZ21haWwuY29tIiwiZXhwIjoxNjI0NTEzNzI5fQ.rF0WCo30zXuC4TaQykh2g6278DToM1BrhWnbGlJslwA",
+        "expiry": "2021-06-24T05:48:49+0000"
+    },
+    "message": "Login berhasil!"
+}
+
+
+AKSES TOKEN BARU:
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImludGFyaXJhaG1pMDdAZ21haWwuY29tIiwiZXhwIjoxNjI0NTE3MDIwfQ.eQCFNohLQr6IZGKpEs4oiq873vnGe0H4ICP_wPlG2kk
